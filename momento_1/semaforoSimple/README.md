@@ -7,7 +7,7 @@ Basicamente consta de un circuito  que representa la funcionalidad de un semáfo
 3. Bombillos led (tres)
 4. Resistencias (tres de 120 hm)
 5. Pins (tres)
-6. jumper (dos)
+6. jumper (uno)
 ### Diagrama
 ![Diagrama](../semaforoSimple/imgDiagramaSemaforoSimple.png)
 ### Circuito
