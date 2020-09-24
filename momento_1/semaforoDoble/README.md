@@ -9,6 +9,6 @@ Consta de un circuito  que representa la funcionalidad de un semáforo doble.
 5. Pins (diez)
 6. jumper (dos)
 ### Diagrama
-![Diagrama](../semaforoDoble/imgDiagramaSemaforoSimple.png)
+![Diagrama](../semaforoDoble/imgDiagramaSemaforoDoble.png)
 ### Circuito
 ![circuito](../semaforoDoble/imgCircuitoSemaforoDoble.png)
