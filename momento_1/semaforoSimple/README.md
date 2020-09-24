@@ -10,6 +10,7 @@ Basicamente consta de un circuito  que representa la funcionalidad de un semáfo
 ### Diagrama
 ![Diagrama](../semaforoSimple/imgSemaforoSimple.png)
 ### Circuito
-![Diagrama](../semaforoSimple/semaforoSimple.mp4)
+![Diagrama](../semaforoSimple/imgCircuitoSemaforoSimple.png
+)
 
 
