@@ -1,6 +1,6 @@
 # ucc-electiva-iv
-## Pulsador Simple
-2 Leds de Salida y 1 solo pulsador, se debe comportar asi: cuando este pulsado se enciende led 1 y cuando este suelto el pulsador se enciende led 2.
+## Semaforo Simple
+Basicamente consta de un circuito  que representa la funcionalidad de un semáforo.
 ### Componentes requeridos para la contrucción 
 1. Placa arduino (1)
 2. Protoboard (1)
