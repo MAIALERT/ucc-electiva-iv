@@ -4,7 +4,7 @@ Implementar 2 pulsadores que condicionen el encendido de 2 Leds, de la siguiente
 ### Componentes requeridos para la contrucción 
 1. Placa arduino (1)
 2. Protoboard (1)
-3. led (2)
+3. led(2)
 4. Pulsores (2)
 5. Resistencias de 120 Ω (2)
 6. Jumpers
