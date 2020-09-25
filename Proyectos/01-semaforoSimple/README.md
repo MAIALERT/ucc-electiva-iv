@@ -9,8 +9,8 @@ Basicamente consta de un circuito  que representa la funcionalidad de un semáfo
 5. Pins (tres)
 6. jumper (uno)
 ### Diagrama
-![Diagrama](../semaforoSimple/imgDiagramaSemaforoSimple.png)
+![Diagrama](../01-semaforoSimple/imgDiagramaSemaforoSimple.png)
 ### Circuito
-![Diagrama](../semaforoSimple/imgCircuitoSemaforoSimple.png)
+![Diagrama](../01-semaforoSimple/imgCircuitoSemaforoSimple.png)
 
 
