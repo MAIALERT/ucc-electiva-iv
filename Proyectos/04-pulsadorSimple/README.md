@@ -12,6 +12,6 @@
 ![Diagrama](../04-pulsadorSimple/imgDiagramaPulsadorSimple.png)
 ### Circuito
 ![Circuito](../04-pulsadorSimple/imgCircuitoPulsadorSimple.png)
-
-
+### link tinkercad
+https://www.tinkercad.com/things/2l9g93VqjSb 
 

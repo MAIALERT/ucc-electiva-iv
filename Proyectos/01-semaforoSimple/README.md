@@ -12,5 +12,7 @@ Basicamente consta de un circuito  que representa la funcionalidad de un semáfo
 ![Diagrama](../01-semaforoSimple/imgDiagramaSemaforoSimple.png)
 ### Circuito
 ![Diagrama](../01-semaforoSimple/imgCircuitoSemaforoSimple.png)
+### Link Tinkercad
+ https://www.tinkercad.com/things/gUzHv3ua1lV
 
 

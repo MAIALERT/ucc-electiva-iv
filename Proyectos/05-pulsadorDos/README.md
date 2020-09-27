@@ -13,6 +13,7 @@ Implementar 2 pulsadores que condicionen el encendido de 2 Leds, de la siguiente
 ![Diagrama](../05-pulsadorDos/imgDiagramaPulsadorDos.png)
 ### Circuito
 ![Circuito](../05-pulsadorDos/imgCircuitoPulsadorDos.png)
-
+### Link Tinkercad
+https://www.tinkercad.com/things/97D0rfVQ3mY 
 
 

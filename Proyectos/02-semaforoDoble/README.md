@@ -12,3 +12,5 @@ Consta de un circuito  que representa la funcionalidad de un semáforo doble.
 ![Diagrama](../02-semaforoDoble/imgDiagramaSemaforoDoble.png)
 ### Circuito
 ![circuito](../02-semaforoDoble/imgCircuitoSemaforoDoble.png)
+### Link Tinkercad
+https://www.tinkercad.com/things/3WRSiEOZ66p 
