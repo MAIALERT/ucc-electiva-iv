@@ -1,5 +1,5 @@
 # ucc-electiva-iv
-## Semaforo Simple
+## pulsador rapido lento
 Led controlado por pulso rapido y pulso lento
 ### Componentes requeridos para la contrucción 
 1. Placa de arduino (1)
