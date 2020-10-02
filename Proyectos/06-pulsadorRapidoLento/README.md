@@ -9,9 +9,9 @@ Led controlado por pulso rapido y pulso lento
 5. pulsores (2)
 6. jumper 
 ### Diagrama
-![Diagrama](../06-pulsadorRapidoLento/imgDiagramaPulsadorLentoRapido.png)
+![Diagrama](../06-pulsadorRapidoLento/imgDiagramaPulsadorRapidoLento.png)
 ### Circuito
-![Circuito](../06-pulsadorRapidoLento/imgCircuitoPulsadorLentoRapido.png)
+![Circuito](../06-pulsadorRapidoLento/imgCircuitoPulsadorRapidoLento.png)
 ### Link Tinkercad
 https://www.tinkercad.com/things/luQgv129n2z 
 
